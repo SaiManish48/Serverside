@@ -10,5 +10,5 @@ As we already learned python object-oriented programming concepts in the first y
 
 DAY-2:
 
-The instructions were clear on how to procide further and I came to know how to create a branch as well merging the code into the master branch it helped me. In problem I had displayed the ordered list and few required values.  This assignment  helped me to brush up all the concepts in python again as well as OOPs concepts also.
+The instructions were clear on how to procede further and I came to know how to create a branch as well merging the code into the master branch it helped me. In problem I had displayed the ordered list and few required values.  This assignment  helped me to brush up all the concepts in python again as well as OOPs concepts also.
 
